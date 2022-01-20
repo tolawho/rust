@@ -1,0 +1,23 @@
+{
+  "name": "learn-rust",
+  "version": "1.0.0",
+  "description": "learn rust lang basic",
+  "main": "index.js",
+  "scripts": {
+    "start": "node compile.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tolawho/rust.git"
+  },
+  "author": "tolawho@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tolawho/rust/issues"
+  },
+  "homepage": "https://github.com/tolawho/rust#readme",
+  "dependencies": {
+    "shelljs": "^0.8.5"
+  }
+}
